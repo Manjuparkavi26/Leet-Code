@@ -37,4 +37,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
