@@ -8,6 +8,7 @@ Solutions
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0195-tenth-line/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
