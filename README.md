@@ -16,6 +16,7 @@ Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
@@ -52,4 +53,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0190-reverse-bits/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
