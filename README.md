@@ -18,6 +18,7 @@ Solutions
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 ## Dynamic Programming
