@@ -8,6 +8,7 @@ Solutions
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 <!---LeetCode Topics End-->
