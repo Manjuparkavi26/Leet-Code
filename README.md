@@ -64,4 +64,20 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
