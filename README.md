@@ -80,4 +80,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0100-same-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0619-biggest-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
