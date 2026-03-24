@@ -20,6 +20,7 @@ Solutions
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -88,4 +89,12 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0619-biggest-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
