@@ -21,6 +21,7 @@ Solutions
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -93,8 +94,13 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
