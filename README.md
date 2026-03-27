@@ -10,6 +10,7 @@ Solutions
 | [0070-climbing-stairs](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 <!---LeetCode Topics End-->
