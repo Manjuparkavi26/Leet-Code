@@ -24,6 +24,7 @@ Solutions
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2239-find-closest-number-to-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
