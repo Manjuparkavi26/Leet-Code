@@ -9,6 +9,7 @@ Solutions
 | [0069-sqrtx](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Binary Search
@@ -64,6 +65,7 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
+| [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Sorting
