@@ -12,6 +12,7 @@ Solutions
 | [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
