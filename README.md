@@ -28,6 +28,7 @@ Solutions
 | [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manjuparkavi26/Leet-Code/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Manjuparkavi26/Leet-Code/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Greedy
@@ -74,6 +75,7 @@ Solutions
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
