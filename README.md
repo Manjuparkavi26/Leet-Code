@@ -18,6 +18,7 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0137-single-number-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
@@ -74,6 +76,7 @@ Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Manjuparkavi26/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 ## String
